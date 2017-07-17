@@ -1,0 +1,18 @@
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\bin\Debug\spamer.exe
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\bin\Debug\spamer.pdb
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\bin\Debug\spamer.xml
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.Form1.resources
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.Resources.resources
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.vbproj.GenerateResource.Cache
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.exe
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.xml
+C:\Users\lukejet7\AppData\Local\Temporary Projects\spamer\obj\x86\Debug\spamer.pdb
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.exe
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.xml
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.pdb
+C:\Users\lukejet7\Desktop\spamer\spamer\bin\Debug\spamer.exe
+C:\Users\lukejet7\Desktop\spamer\spamer\bin\Debug\spamer.pdb
+C:\Users\lukejet7\Desktop\spamer\spamer\bin\Debug\spamer.xml
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.Form1.resources
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.Resources.resources
+C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.vbproj.GenerateResource.Cache
