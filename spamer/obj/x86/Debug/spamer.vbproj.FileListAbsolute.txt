@@ -16,3 +16,13 @@ C:\Users\lukejet7\Desktop\spamer\spamer\bin\Debug\spamer.xml
 C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.Form1.resources
 C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.Resources.resources
 C:\Users\lukejet7\Desktop\spamer\spamer\obj\x86\Debug\spamer.vbproj.GenerateResource.Cache
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.exe
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.xml
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.pdb
+C:\Users\Luke\Documents\GitHub\spammer\spamer\bin\Debug\spamer.exe
+C:\Users\Luke\Documents\GitHub\spammer\spamer\bin\Debug\spamer.pdb
+C:\Users\Luke\Documents\GitHub\spammer\spamer\bin\Debug\spamer.xml
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.vbprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.Form1.resources
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.Resources.resources
+C:\Users\Luke\Documents\GitHub\spammer\spamer\obj\x86\Debug\spamer.vbproj.GenerateResource.Cache

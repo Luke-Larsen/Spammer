@@ -55,7 +55,7 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(260, 44)
         Me.TextBox1.TabIndex = 2
-        Me.TextBox1.Text = "You message here"
+        Me.TextBox1.Text = "Your message here"
         '
         'TextBox2
         '
@@ -63,7 +63,7 @@ Partial Class Form1
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(266, 20)
         Me.TextBox2.TabIndex = 3
-        Me.TextBox2.Text = "How fast the spam is"
+        Me.TextBox2.Text = "How fast in mili-secounds do you want it to type"
         '
         'Timer1
         '
